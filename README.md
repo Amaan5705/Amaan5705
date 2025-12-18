@@ -4,8 +4,9 @@
 
 <!-- VISITOR COUNT -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OkBatti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amaan5705&label=Profile%20views&color=0e75b6&style=flat" alt="Amaan5705" />
 </p>
+
 
 ---
 ### 🌟 About Me
