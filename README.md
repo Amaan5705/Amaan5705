@@ -33,7 +33,7 @@
 
 
 
-## 📊 GitHub Statistics  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amaan5705&show_icons=true&theme=radical" alt="Amaan's GitHub Stats" />
