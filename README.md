@@ -1,6 +1,6 @@
 # Amaan
 
-Currently pursuing CSE in BMSCE. Passionate about coding, building apps and games, and exploring new technologies. Always learning, experimenting, and creating new things.
+Currently pursuing CSE in BMS College of Engineering. Passionate about coding, building apps and games, and exploring new technologies. Always learning, experimenting, and creating new things.
 
 📫 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/mohammed-amaan-4a1675306/)  
