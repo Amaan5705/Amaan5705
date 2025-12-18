@@ -19,17 +19,18 @@
 
 ---
 
-## 💼 Tech Stack  
+### 🧰 Tech Stack
 
-### 🚀 Languages & Frameworks  
+#### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,react,arduino,tensorflow,pytorch&perline=11" width="400"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,nodejs,react,arduino,tensorflow,pytorch" />
 </p>
 
-### 🛠 Tools & Platforms  
+#### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel&perline=7" width="360"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel" />
 </p>
+
 
 
 ## 📊 GitHub Statistics  
