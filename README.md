@@ -41,6 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan5705&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
 
 ## 🌐 Connect with Me  
