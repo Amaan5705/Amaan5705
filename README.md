@@ -1,24 +1,20 @@
-# Amaan
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey there 👋, I'm Mohammed Amaan</h1>
+<h3 align="center">A passionate developer exploring AI, Robotics, and Machine Learning 🚀</h3>
 
-Currently pursuing CSE in BMS College of Engineering. Passionate about coding, building apps and games, and exploring new technologies. Always learning, experimenting, and creating new things.
+<!-- VISITOR COUNT -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OkBatti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/mohammed-amaan-4a1675306/)  
-[LeetCode](https://leetcode.com/u/Amaan2005/)
-## Hi there 👋
+---
+### 🌟 About Me
 
-<!--
-**Amaan5705/Amaan5705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Currently working on **AI + Hardware projects**
+- 🧬 Exploring **AI and Machine Learning**
+- 🎓 3rd Year CSE Student at **BMS College of Engineering, Bangalore**
+- 🤝 Open to collaborating on **AI / Robotics / Electronics / Hardware projects**
+- ⚡ Fun fact:  I love turning random ideas into real-life projects 👦💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 ![snake gif](https://github.com/Amaan5705/Amaan5705/blob/output/github-snake-dark.svg)
