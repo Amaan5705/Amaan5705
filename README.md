@@ -25,12 +25,12 @@
 <p align="left">  
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,nodejs,react,arduino,tensorflow,pytorch" />
 </p>  
-
-### 🛠️ Tools & Platforms  
+ 
 ### 🛠️ Tools & Platforms  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=vscode,cursor,github,git,linux,figma,notion,vercel" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=cursor,vscode,github,git,linux,figma,notion,vercel" />
+</p>
+
 
 
 ---
