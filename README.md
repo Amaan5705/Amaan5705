@@ -29,21 +29,13 @@
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel,cursor" />
 
-## 📊 GitHub Stats  
+## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amaan5705&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amaan5705&show_icons=true&theme=radical" alt="Amaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan5705&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amaan5705&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amaan5705&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amaan5705&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amaan5705&theme=radical" />
-</p>
 
 
 ## 🌐 Connect with Me  
