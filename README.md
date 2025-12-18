@@ -31,15 +31,11 @@
 
 
 ## 🌐 Connect with Me  
+<div>
+  <a href="https://www.linkedin.com/in/mohammed-amaan-4a1675306/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:amaan05.mo@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-amaan-4a1675306/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:amaan05.mo@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 
 
 
