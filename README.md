@@ -31,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel" />
 </p>
 
+---
 
 
 ### 📊 GitHub Stats  
