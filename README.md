@@ -18,4 +18,20 @@
 - ⚡ Fun fact:  I love turning random ideas into real-life projects 👦💻
 
 ---
+
+## 🧰 Tech Stack  
+
+### 🚀 Languages & Frameworks  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,nodejs,react,arduino,tensorflow,pytorch" />
+</p>  
+
+### 🛠️ Tools & Platforms  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel" />
+</p>  
+
+---
+
+---
 ![snake gif](https://github.com/Amaan5705/Amaan5705/blob/output/github-snake-dark.svg)
