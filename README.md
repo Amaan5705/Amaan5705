@@ -26,10 +26,9 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,nodejs,react,arduino,tensorflow,pytorch" />
 </p>  
  
-### 🛠️ Tools & Platforms  
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel,cursor&perline=8" />
-</p>
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel,cursor" />
+
 
 
 
