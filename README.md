@@ -27,9 +27,11 @@
 </p>  
 
 ### 🛠️ Tools & Platforms  
+### 🛠️ Tools & Platforms  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,cursor,github,git,linux,figma,notion,vercel" />
 </p>  
+
 
 ---
 
