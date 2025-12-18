@@ -23,12 +23,12 @@
 
 ### 🚀 Languages & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,react,arduino,tensorflow,pytorch&perline=11" width="360"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,react,arduino,tensorflow,pytorch&perline=11" width="400"/>
 </p>
 
 ### 🛠 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel&perline=7" width="260"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,notion,vercel&perline=7" width="360"/>
 </p>
 
 
